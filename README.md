@@ -9,4 +9,4 @@ Collection of mock data sources for quick reference for geospatial development a
 - Include CRS information in each summary file
 
 ![Mocking Spongebob](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mocking-spongebob-1556133078.jpg)
-*I DONT CARE WHAT DATA TYPE YOU USE, I JUST WANT MY APP TO WORK*
+<center>*I DONT CARE WHAT DATA TYPE YOU USE, I JUST WANT MY APP TO WORK*</center>
